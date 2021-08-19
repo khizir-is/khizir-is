@@ -40,14 +40,5 @@ ___
 ![Html5](https://img.shields.io/badge/Html5-090909?style=for-the-badge&logo=Html5)
 ![Css3](https://img.shields.io/badge/Css3-090909?style=for-the-badge&logo=Css3)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
-
-
-
-
-
-
-
-
-
-
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![Babel](https://img.shields.io/badge/Babel-090909?style=for-the-badge&logo=Babel)
